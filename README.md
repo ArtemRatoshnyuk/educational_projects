@@ -10,5 +10,5 @@
 | *06_telecom_tariffs_recommendation* | **Рекомендация тарифов** | Построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф | *pandas, numpy, seaborn, matplotlib, sklearn* |
 | *07_outflow_bank_customers* | **Отток клиентов** | Построить систему прогнозирования ухода клиента из банка | *pandas, numpy, seaborn, matplotlib, sklearn* |
 | *08_oil_well_choos_location* | **Выбор локации для скважины** | Определить наиболее эффективное место для бурения скважины | *pandas, numpy, seaborn, matplotlib, scipy, sklearn* |
-| *09_* | **Проект 9** | Описание | *pandas* |
+| *09_gold_recovery* | **Восстановление золота из руды** | Оптимизировать производство и исключить возможность запуска предприятия с убыточными характеристиками | *pandas, numpy, seaborn, matplotlib, scipy, sklearn* |
 | *10_* | **Проект 10** | Описание | *pandas* |
