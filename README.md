@@ -12,5 +12,6 @@
 | _[08_oil_well_choos_location](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/08_oil_well_choos_location)_ | **Выбор локации для скважины** | Определить наиболее эффективное место для бурения скважины | *pandas, numpy, seaborn, matplotlib, scipy, sklearn* |
 | _[09_gold_recovery](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/09_gold_recovery)_ | **Восстановление золота из руды** | Оптимизировать производство и исключить возможность запуска предприятия с убыточными характеристиками | *pandas, numpy, seaborn, matplotlib, scipy, sklearn* |
 | _[10_data_protection](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/10_data_protection)_ | **Защита персональных данных клиентов** | Защитить данные клиентов компании таким образом, чтобы при преобразовании качество моделей машинного обучения не ухудшилось | *pandas, numpy, sklearn* |
-| *11_* | **Проект 11** | Описание | *pandas* |
+| _[11_cost_of_cars](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/11_cost_of_cars)_ | **Определение стоимости автомобилей** | Разработка приложения в котором можно быстро узнать рыночную стоимость своего автомобиля | *pandas, numpy, time, matplotlib, scipy, lightgbm, sklearn* |
 | *12_* | **Проект 12** | Описание | *pandas* |
+| *13_* | **Проект 13** | Описание | *pandas* |
