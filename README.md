@@ -11,6 +11,6 @@
 | _[07_outflow_bank_customers](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/07_outflow_bank_customers)_ | **Отток клиентов** | Построить систему прогнозирования ухода клиента из банка | *pandas, numpy, seaborn, matplotlib, sklearn* |
 | _[08_oil_well_choos_location](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/08_oil_well_choos_location)_ | **Выбор локации для скважины** | Определить наиболее эффективное место для бурения скважины | *pandas, numpy, seaborn, matplotlib, scipy, sklearn* |
 | _[09_gold_recovery](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/09_gold_recovery)_ | **Восстановление золота из руды** | Оптимизировать производство и исключить возможность запуска предприятия с убыточными характеристиками | *pandas, numpy, seaborn, matplotlib, scipy, sklearn* |
-| *10_data_protection* | **Защита персональных данных клиентов** | Защитить данные клиентов компании таким образом, чтобы при преобразовании качество моделей машинного обучения не ухудшилось | *pandas, numpy, sklearn* |
+| _[10_data_protection](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/10_data_protection)_ | **Защита персональных данных клиентов** | Защитить данные клиентов компании таким образом, чтобы при преобразовании качество моделей машинного обучения не ухудшилось | *pandas, numpy, sklearn* |
 | *11_* | **Проект 11** | Описание | *pandas* |
 | *12_* | **Проект 12** | Описание | *pandas* |
