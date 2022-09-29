@@ -13,5 +13,7 @@
 | _[09_gold_recovery](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/09_gold_recovery)_ | **Восстановление золота из руды** | Оптимизировать производство и исключить возможность запуска предприятия с убыточными характеристиками | *pandas, numpy, seaborn, matplotlib, scipy, sklearn* |
 | _[10_data_protection](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/10_data_protection)_ | **Защита персональных данных клиентов** | Защитить данные клиентов компании таким образом, чтобы при преобразовании качество моделей машинного обучения не ухудшилось | *pandas, numpy, sklearn* |
 | _[11_cost_of_cars](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/11_cost_of_cars)_ | **Определение стоимости автомобилей** | Разработка приложения в котором можно быстро узнать рыночную стоимость своего автомобиля | *pandas, numpy, time, matplotlib, scipy, lightgbm, sklearn* |
-| *12_* | **Проект 12** | Описание | *pandas* |
+| _[12_forecasting_taxi_orders](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/12_forecasting_taxi_orders)_ | **Прогнозирование заказов такси** | Прогнозирование количества заказов такси на следующий час для большего привлечения водителей в аэропорт в период пиковой нагрузки | *pandas, numpy, seaborn,  matplotlib, statsmodels , sklearn* |
 | *13_* | **Проект 13** | Описание | *pandas* |
+| *14_* | **Проект 13** | Описание | *pandas* |
+| *15_* | **Проект 13** | Описание | *pandas* |
