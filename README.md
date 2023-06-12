@@ -20,4 +20,5 @@
 | _[16_price_change_analysis](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/16_price_change_analysis)_ | **Анализ изменения цены услуг медицинской клиники** | Выявление драйверов, определяющих изменение цены лечения | *pandas, numpy, seaborn, matplotlib, scipy, datetime, time* |
 | _[17_sales_forecast](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/17_sales_forecast)_ | **Прогноз продаж интернет-магазина** | Прогноз продаж на следующий месяц для организации точного объема закупа товара | *pandas, numpy, seaborn, matplotlib, sklearn* |
 | _[18_recommendation system](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/18_recommendation%20system)_ | **Рекомендательная система / матчинг маркетплейса** | Получить инструмент, который будет выдавать в рекомендацию 10 аналогичных товаров | *pandas, numpy, sklearn, os* |
+| _[19_orders_analysis](https://github.com/ArtemRatoshnyuk/educational_projects/tree/main/18_recommendation%20system)_ | **Статистика создания заказов мясокомбината** | Выявление причин задержки сборки и доставки собранных заказов клиентам | *pandas, os, datetime, seaborn, matplotlib, nbconvert* |
 
